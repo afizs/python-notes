@@ -1,4 +1,4 @@
-#  🟡 Python Notes
+#  📒 Python Notes
 
 
 ### This repo contains all the Python projects, tips and notes I share on twitter and YouTube. 
