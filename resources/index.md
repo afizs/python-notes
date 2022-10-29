@@ -23,3 +23,10 @@ https://learndigital.withgoogle.com/digitalunlocked/course/introduction-to-pytho
 https://learndigital.withgoogle.com/digitalunlocked/course/programming-for-everybody-python  
 3. Python Basics 
 https://learndigital.withgoogle.com/digitalunlocked/course/python-basics 
+
+
+### Hadoop Fundamentals by IBM
+
+![image](https://user-images.githubusercontent.com/5618143/198836602-6320951d-db99-4319-9d07-7b4eaaff442b.png)
+
+[Learning Path Link](https://cognitiveclass.ai/learn/hadoop)
