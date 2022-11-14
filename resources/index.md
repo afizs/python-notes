@@ -30,3 +30,11 @@ https://learndigital.withgoogle.com/digitalunlocked/course/python-basics
 ![image](https://user-images.githubusercontent.com/5618143/198836602-6320951d-db99-4319-9d07-7b4eaaff442b.png)
 
 [Learning Path Link](https://cognitiveclass.ai/learn/hadoop)
+
+### Computer Science to AI by Standford for FREE
+
+1. [CS 101](https://t.co/24FTtaqdAE) 
+2. [Machine Learning Specialization](https://t.co/YtMJEeKbBz)
+3. [Game Theory](https://t.co/7m8Ld134Hm)
+4. [Designing Your Career](https://t.co/9SYhiWbkEc)
+5. [Artificial Intelligence for Robotics](https://t.co/VmsnkOX0ao)
