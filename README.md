@@ -10,3 +10,4 @@
 ## Image Processing in Python
 - [`Edge Detection`](image-processing/edge_detection.ipynb)
 - [`Face Detection`](image-processing/image_processing.ipynb)
+- [`Blur Faces`](image-processing/blur_faces.ipynb)
