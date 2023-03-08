@@ -11,3 +11,6 @@
 - [`Edge Detection`](image-processing/edge_detection.ipynb)
 - [`Face Detection`](image-processing/image_processing.ipynb)
 - [`Blur Faces`](image-processing/blur_faces.ipynb)
+
+## Interesting Libraries
+- [`Access datasets from Python`](interesting/pydata.ipynb)
