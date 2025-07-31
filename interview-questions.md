@@ -1,8 +1,5 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" class="logo" width="120"/>
 
-# Give me the top 10 Python interview questions with answers?
-
-You can include code samples as well.
+# Top 10 Python interview questions with answers!
 
 Here are the top 10 Python interview questions with concise answers and code examples where applicable:
 
@@ -137,23 +134,4 @@ lst2 = copy.copy(lst1)    # Shallow copy
 lst3 = copy.deepcopy(lst1) # Deep copy
 ```
 
-These questions and answers cover concepts commonly tested in Python interviews for 2025, offering both theory and practical code illustrations.
-
-<div style="text-align: center">⁂</div>
-
-[^1_1]: https://anubhavcomputer.com/mastering-common-python-interview-questions-a-comprehensive-guide/
-
-[^1_2]: https://www.geeksforgeeks.org/python/python-interview-questions/
-
-[^1_3]: https://www.interviewbit.com/python-interview-questions/
-
-[^1_4]: https://www.datacamp.com/blog/top-python-interview-questions-and-answers
-
-[^1_5]: https://upesonline.ac.in/blog/python-interview-questions-basics-and-advanced
-
-[^1_6]: https://www.youtube.com/watch?v=jlf12uVQcfE
-
-[^1_7]: https://www.ccbp.in/blog/articles/python-coding-questions
-
-[^1_8]: https://www.w3schools.com/python/python_interview_questions.asp
-
+These questions and answers cover concepts commonly tested in Python interviews.
