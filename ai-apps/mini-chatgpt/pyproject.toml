@@ -1,0 +1,10 @@
+[project]
+name = "mini-chatgpt"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "langchain-azure-ai>=0.1.4",
+    "streamlit>=1.48.0",
+]
