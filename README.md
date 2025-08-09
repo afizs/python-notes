@@ -7,6 +7,9 @@
 ## Advanced Python
 - [`deque`](advanced/02_deque.ipynb)
 
+## AI Apps
+- [`Mini ChatGPT` with `GitHub Models` and `Azure AI`](ai-apps/mini-chatgpt/)
+
 ## Image Processing in Python
 - [`Edge Detection`](image-processing/edge_detection.ipynb)
 - [`Face Detection`](image-processing/image_processing.ipynb)
