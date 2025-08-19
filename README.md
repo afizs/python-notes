@@ -18,3 +18,5 @@
 ## Interesting Libraries
 - [`Access datasets from Python`](interesting/pydata.ipynb)
 - [`Animations for Python Charts(ipyvizzu)`](interesting/ipyvizzu.ipynb)
+
+## [`Books`](books/README.md)
