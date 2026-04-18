@@ -11,6 +11,7 @@
 
 ## AI Apps
 - [`Mini ChatGPT` with `GitHub Models` and `Azure AI`](ai-apps/mini-chatgpt/)
+- [`Agentic RAG with HayStack`](agents/haystack/agentic_rag.ipynb)
 
 ## Image Processing in Python
 - [`Edge Detection`](image-processing/edge_detection.ipynb)
